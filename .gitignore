@@ -9,3 +9,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# Compiler-private artifacts — never publish.
+content/log.md
+content/CLAUDE.md
+content/raw/

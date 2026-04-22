@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "petrelaskov.github.io/meditation-wiki",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "log.md", "CLAUDE.md", "raw"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
