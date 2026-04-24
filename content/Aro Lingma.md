@@ -6,7 +6,7 @@ domain: [nyingma, lineage]
 importance: 6
 confidence: established
 tags: [gterton, lineage-founder, female-master, aro-lineage, ngakphang, tibetan-figure]
-aliases: [a ro gLing ma, Kyungchen Aro Lingma, 'khyung chen A ro gLing ma, Aro Lingma Kyungchen, Jétsunma Khandro Yeshé Réma, Khandro Yeshé Réma]
+aliases: [a ro gLing ma, Kyungchen Aro Lingma, "'khyung chen A ro gLing ma", Aro Lingma Kyungchen, Jétsunma Khandro Yeshé Réma, Khandro Yeshé Réma]
 sources: [raw/roaring-silence/Roaring Silence - 00c Introduction.md, raw/roaring-silence/Roaring Silence - 05 Ocean and Waves.md, raw/roaring-silence/Roaring Silence - 10 The Dimension of Nongradual Approach.md, raw/roaring-silence/Roaring Silence - 13 Glossary.md, raw/spectrum-of-ecstasy/12-ch07-white-khandro-pawo-display.md, raw/spectrum-of-ecstasy/16-ch11-five-fold-display.md, raw/spectrum-of-ecstasy/18-ch13-dancing-in-the-space-of-the-earth-and-sky.md]
 updated: 2026-04-23
 ---

@@ -1,12 +1,12 @@
 ---
 type: concept
-thesis: "Samsara — Tibetan *khor-wa* — literally 'going round in circles.' Spectrum of Ecstasy Ch.3 gives the term its most load-bearing handbook treatment: samsara is the self-undermining oscillation between safety and risk, where each becomes intolerable as soon as it is attained because the dualistic mind treats attainment as new ground. *'The point of balance is unattainable because it's a self-undermining point. When you arrive at this illusory point of balance it then becomes your ground or your security in some way. As soon as the point of balance becomes a point of security it starts to feel claustrophobic. It becomes form.'* Ch.4 extends: samsara is sustained by the structural need for *"not getting what we want, but being able to hope"* — once the goal is reached, the goal-directed self has no purpose, so desires must continually change. Ch.4 Q&A supplies the operational three-line frame: *'Not being able to tell the difference [between enlightened energy and neurosis] is a definition of samsara. Being able to tell the difference is a definition of a practitioner. There actually being no difference, is a definition of the enlightened state.'*"
+thesis: "Samsara — Tibetan *khor-wa* — literally 'going round in circles.' Spectrum of Ecstasy Ch.3 gives the term its most load-bearing handbook treatment: samsara is the self-undermining oscillation between safety and risk, where each becomes intolerable as soon as it is attained because the dualistic mind treats attainment as new ground. *'The point of balance is unattainable because it's a self-undermining point. When you arrive at this illusory point of balance it then becomes your ground or your security in some way. As soon as the point of balance becomes a point of security it starts to feel claustrophobic. It becomes form.'* Ch.4 extends: samsara is sustained by the structural need for *\"not getting what we want, but being able to hope\"* — once the goal is reached, the goal-directed self has no purpose, so desires must continually change. Ch.4 Q&A supplies the operational three-line frame: *'Not being able to tell the difference [between enlightened energy and neurosis] is a definition of samsara. Being able to tell the difference is a definition of a practitioner. There actually being no difference, is a definition of the enlightened state.'*"
 status: 🌱
 domain: [phenomenology, tibetan-buddhism, tantra]
 importance: 7
 confidence: established
 tags: [foundational, tibetan-term, vajrayana, dualism, khor-wa, view]
-aliases: [khor-wa, khorwa, 'khor ba, samsaric]
+aliases: [khor-wa, khorwa, "'khor ba", samsaric]
 sources: [raw/spectrum-of-ecstasy/08-ch03-view-meditation-and-action.md, raw/spectrum-of-ecstasy/09-ch04-discovering-space.md]
 updated: 2026-04-23
 ---

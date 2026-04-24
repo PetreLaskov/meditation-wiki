@@ -6,7 +6,7 @@ domain: [tantra, nyingma]
 importance: 6
 confidence: established
 tags: [five-elements, space-element, symbol, iconography, formalised-tantric-symbol, aro-lineage, tibetan-term]
-aliases: ['khor lo, wheel, circle, space-element symbol, Tantric wheel, dharmadhatu symbol, ground-symbol]
+aliases: ["'khor lo", wheel, circle, space-element symbol, Tantric wheel, dharmadhatu symbol, ground-symbol]
 sources: [raw/spectrum-of-ecstasy/15-ch10-blue-khandro-pawo-display.md]
 updated: 2026-04-24
 ---
