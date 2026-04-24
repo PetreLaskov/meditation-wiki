@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "petrelaskov.github.io/meditation-wiki",
+    baseUrl: "petrelaskov.github.io/dzogchen-tantra-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
