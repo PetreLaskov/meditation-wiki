@@ -13,7 +13,7 @@ updated: 2026-04-23
 
 # Roaring Silence: Discovering the Mind of Dzogchen
 
-A handbook of the **Aro Naljor-zhi** — the [[Four Naljors]], preliminary practices ([[Ngöndro]]) for [[Sem-dé]] in the [[Nyingma]] Dzogchen curriculum — as transmitted in the [[Aro Ter|Aro gTér]] lineage.
+A handbook of the **Aro Naljor-zhi** — the [[Four Naljors]], preliminary practices ([[Ngöndro]]) for [[Sem-dé]] in the [[Nyingma]] Dzogchen curriculum — as transmitted in the [[Aro gTér|Aro gTér]] lineage.
 
 ## Key Points
 

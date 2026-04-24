@@ -13,7 +13,7 @@ updated: 2026-04-23
 
 # Ngakpa Chögyam
 
-A [[Nyingma]] Lama in the **ngakpa** (non-monastic tantric yogi) tradition and, with his wife [[Khandro Déchen]], a principal teacher of the [[Aro Ter|Aro gTér]] lineage in the West. Co-author of [[Roaring Silence]] and author (with Khandro Déchen's Q&A commentary) of *[[Spectrum of Ecstasy]]* — originally published 1997 as *Rainbow of Liberated Energy*.
+A [[Nyingma]] Lama in the **ngakpa** (non-monastic tantric yogi) tradition and, with his wife [[Khandro Déchen]], a principal teacher of the [[Aro gTér|Aro gTér]] lineage in the West. Co-author of [[Roaring Silence]] and author (with Khandro Déchen's Q&A commentary) of *[[Spectrum of Ecstasy]]* — originally published 1997 as *Rainbow of Liberated Energy*.
 
 ## Key Points
 
@@ -40,7 +40,7 @@ Ngakpa (*sNgags pa*) is the Tibetan term for a non-monastic tantric practitioner
 - [[Ngakma]] — the female form of the ordination
 - [[Roaring Silence]] — co-authored handbook (Sem-dé ngöndro / Four Naljors)
 - [[Spectrum of Ecstasy]] — author's first book; handbook of the symbolic (Tantric) route through the five wisdom emotions
-- [[Aro Ter]] — the lineage taught
+- [[Aro gTér]] — the lineage taught
 - [[Aro Lingma]] — the gTértön whose cycle he transmits
 - [[Togden]] — the yogic practitioner category named in the Spectrum of Ecstasy Foreword
 - [[Nyingma]] — the tradition

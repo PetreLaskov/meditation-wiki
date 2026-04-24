@@ -48,7 +48,7 @@ Ngakmas sit alongside other [[Ngak'phang|ngak'phang]] types described in Ch.2:
 - [[Gomchen]] — a realization category that ngakmas can occupy (as in Ch.2's Khandro Rinpoche)
 - [[Togden]] — the matted-hair yogic type
 - [[gCod]] — a ngak'phang method
-- [[Aro Ter]] — lineage featuring female realized teachers
+- [[Aro gTér]] — lineage featuring female realized teachers
 - [[Nyingma]] — the school carrying ngak'phang ordination
 - [[Vajrayana]] — the vehicle
 - [[Roaring Silence - 02 Thoughts and Clouds]] — footnote source

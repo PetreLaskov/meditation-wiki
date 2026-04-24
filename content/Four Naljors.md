@@ -13,7 +13,7 @@ updated: 2026-04-23
 
 # The Four Naljors
 
-The **Aro Naljor-zhi** (*a ro rNal 'byor bZhi*) — the Four Naljors of the Aro gTér — are the ngöndro (preliminary practices) for [[Sem-dé]], one of the three series of [[Dzogchen]], as transmitted in the [[Aro Ter|Aro gTér]] cycle revealed through [[Aro Lingma]]. The word [[Naljor]] literally means *natural state remaining*, so the Four Naljors are the four methods of remaining in the [[Natural State|natural state]]. Ch.13 Glossary: *"The Four Naljors of the Aro gTér. The ngöndro (preliminary practices) of Dzogchen Sem-dé. Four practices of silent sitting meditation: shi-nè, lha-tong, nyi'mèd, lhun-drüp."*
+The **Aro Naljor-zhi** (*a ro rNal 'byor bZhi*) — the Four Naljors of the Aro gTér — are the ngöndro (preliminary practices) for [[Sem-dé]], one of the three series of [[Dzogchen]], as transmitted in the [[Aro gTér|Aro gTér]] cycle revealed through [[Aro Lingma]]. The word [[Naljor]] literally means *natural state remaining*, so the Four Naljors are the four methods of remaining in the [[Natural State|natural state]]. Ch.13 Glossary: *"The Four Naljors of the Aro gTér. The ngöndro (preliminary practices) of Dzogchen Sem-dé. Four practices of silent sitting meditation: shi-nè, lha-tong, nyi'mèd, lhun-drüp."*
 
 ## The Four Methods
 

@@ -353,7 +353,7 @@ The chapter ends with the book's opening/closing epigraph restated. The book-pro
 - [[Seng-ge Dongma]] — the wrathful lion-headed khandro (Ch.13 iconographic description)
 - [[Dorje Sempa]] — the thunderbolt Mind-hero (Ch.13 iconographic description)
 - [[Aro Lingma]] — Khyungchen Aro Lingma; source-gTér-cycle for the Khandro-pawo-nyi-da-melong-gyud
-- [[Aro Ter]] — lineage
+- [[Aro gTér]] — lineage
 - [[Compassion]] — Ch.13's compressed wisdom/compassion/emptiness/form structure
 - [[Beginningless Enlightenment]] — the ground whose recognition is the book's closing goal
 - [[Nongradual Approach]] — the paradox-of-return register

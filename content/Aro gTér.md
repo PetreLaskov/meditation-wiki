@@ -6,7 +6,7 @@ domain: [nyingma, lineage]
 importance: 5
 confidence: established
 tags: [lineage, terma, ngakpa, aro-ter]
-aliases: [Aro gTér, Aro Ter lineage, Aro Ter cycle]
+aliases: [Aro Ter, Aro gTér lineage, Aro gTér cycle, Aro Ter lineage, Aro Ter cycle]
 sources: [raw/roaring-silence/Roaring Silence - 00c Introduction.md, raw/roaring-silence/Roaring Silence - 10 The Dimension of Nongradual Approach.md, raw/roaring-silence/Roaring Silence - 13 Glossary.md, raw/spectrum-of-ecstasy/04-introduction.md, raw/spectrum-of-ecstasy/12-ch07-white-khandro-pawo-display.md]
 updated: 2026-04-23
 ---

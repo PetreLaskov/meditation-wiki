@@ -1,10 +1,10 @@
 ---
-title: "Aro Ter Dzogchen+Tantra Wiki"
+title: "Aro gTér Dzogchen and Tantra Teachings Wiki"
 ---
 
-# Aro Ter Dzogchen+Tantra Wiki
+# Aro gTér Dzogchen and Tantra Teachings Wiki
 
-A wiki on Vajrayana meditation in the [[Aro Ter]] lineage of the [[Nyingma]] school — view, practice, phenomenology — compiled from the paired handbooks by [[Ngakpa Chögyam]] and [[Khandro Déchen]]: *[[Roaring Silence]]: Discovering the Mind of Dzogchen* (Shambhala, 2002), the non-symbolic Sem-dé route of the [[Four Naljors]], and *[[Spectrum of Ecstasy]]: Embracing the Five Wisdom Emotions of Vajrayana Buddhism* (Shambhala, 2003), the symbolic-Tantric path of the [[Five Elements]] as wisdom-emotions. The register throughout is precise, technical, non-romantic — thought as a sense; shi-nè defined by what it is *not*; emotion as reflected enlightenment, not obstacle.
+A wiki on Vajrayana meditation in the [[Aro gTér]] lineage of the [[Nyingma]] school — view, practice, phenomenology — compiled from the paired handbooks by [[Ngakpa Chögyam]] and [[Khandro Déchen]]: *[[Roaring Silence]]: Discovering the Mind of Dzogchen* (Shambhala, 2002), the non-symbolic Sem-dé route of the [[Four Naljors]], and *[[Spectrum of Ecstasy]]: Embracing the Five Wisdom Emotions of Vajrayana Buddhism* (Shambhala, 2003), the symbolic-Tantric path of the [[Five Elements]] as wisdom-emotions. The register throughout is precise, technical, non-romantic — thought as a sense; shi-nè defined by what it is *not*; emotion as reflected enlightenment, not obstacle.
 
 ## Start here
 
@@ -133,7 +133,7 @@ The Old Translation school of Tibetan Buddhism, the Aro gTér cycle this book te
 
 - [[Nyingma]] — Old Translation school; founded 9th c. by Padmasambhava and Yeshé Tsogyel
 - [[Vajrayana]] — the tantric vehicle; native context of these practices
-- [[Aro Ter]] — the gTérma cycle revealed through Aro Lingma
+- [[Aro gTér]] — the gTérma cycle revealed through Aro Lingma
 - [[Aro Lingma]] — Kyungchen Aro Lingma (1886–1923); the female Nyingma gTértön of the Aro gTér; received the cycle in vision from Yeshé Tsogyel; a réma (cotton-clad ngak'phang yogini)
 - [[gTér]] — treasure teachings; sa-gTér / gong-gTér / dag-ngang-gTér taxonomy; the mode by which the Aro gTér cycle was revealed
 - [[Ngak'phang]] — non-monastic, non-celibate ordained sangha; "mantra-wielding"; gö-kar chang-lo'i dé; the ordination frame the book's practitioner-model lives in

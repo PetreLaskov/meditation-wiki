@@ -148,7 +148,7 @@ NR in Ch.13: *"The pawo/khandro experience can become an intellectual hall of mi
 - [[Living the View]] — the practice-register of living-in-the-dance
 - [[Compassion]] — the dance's ground-character
 - [[Five Elements]] — the substrate of the five pawo-khandro dance-pairs
-- [[Aro Ter]] — lineage
+- [[Aro gTér]] — lineage
 - [[Aro Lingma]] — source of Khandro-pawo-nyi-da-melong-gyud (the gTer that develops this framework)
 - [[Nongradual Approach]] — the register at which dance-recognition operates
 - [[Tong-pa-nyid]] — emptiness; the womb-of-potentiality from which all form arises

@@ -82,5 +82,5 @@ Both can be compassionate; they operate at different structural levels. NR: *"In
 - [[Fear of Isolation]] — the fire-element engine producing hungry-ghost mode
 - [[Hall of Mirrors]] — the general distortion-apparatus generating realm-specific karmic-visions
 - [[Nongradual Approach]] — the view that dissolves the realm-structure altogether
-- [[Aro Ter]] — the lineage with this psychological-frame reading
+- [[Aro gTér]] — the lineage with this psychological-frame reading
 - [[Nyingma]] — the school

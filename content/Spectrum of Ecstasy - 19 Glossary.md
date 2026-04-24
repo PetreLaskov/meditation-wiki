@@ -41,7 +41,7 @@ From the glossary, the following have dedicated pages already produced through t
 
 **Specific yidams and figures**: [[Aro Lingma|Khyungchen Aro Lingma]], [[Aro Lingma|Yeshe Tsogyel]], [[Dorje Trollo]], [[Tsogyel Trollo]], [[Dorje Sempa]], [[Seng-ge Dongma]], [[Ekajati]] (Mamo Ekajati), [[Kuntuzangmo]]
 
-**Transmission / lineage**: [[Aro Ter]], [[Nyingma]], [[Ngak'phang]], [[Ngakma]], [[Ngakpa Chögyam]], [[Transmission in Dzogchen]] (oral / symbolic / direct), [[Ri-med]], [[Namthar]], [[Symbol]], [[Compassion]], [[Wrathfulness]]
+**Transmission / lineage**: [[Aro gTér]], [[Nyingma]], [[Ngak'phang]], [[Ngakma]], [[Ngakpa Chögyam]], [[Transmission in Dzogchen]] (oral / symbolic / direct), [[Ri-med]], [[Namthar]], [[Symbol]], [[Compassion]], [[Wrathfulness]]
 
 **Ancillary**: [[Three Terrible Oaths]], [[Six Realms]], [[Thig-le]], [[Embracing Emotions as the Path]], [[Nongradual Approach]], [[Samsara]] (khor-wa), [[Meditation Isn't Getting Used To Is]], [[Reference Points]], [[Referentiality]], [[Nonreferentiality]], [[Distracted-Being and Liberated-Being]], [[Me-long]], [[Gom]] (gompa), [[Mind and mind]] (sem / sem-nyid), [[Ten Paramitas]] (Six Perfections partial), [[Integration]]
 
@@ -190,6 +190,6 @@ The glossary confirms the full title and its translation: **"The Tantra of the M
 - [[Six Realms]] — yidag psychological-extension
 - [[Wrathfulness]] — myong pa / ma (wisdom eccentrics) at the ordinary-practitioner register
 - [[Three Terrible Oaths]] — chutzpah as tantrika-quality (glossary confirmation)
-- [[Aro Ter]] — lineage-web references throughout the glossary
+- [[Aro gTér]] — lineage-web references throughout the glossary
 - [[Living the View]] — mere-indication as its canonical register-name
 - [[Symbol]] — symbolic-transmission definition (formal and informal)

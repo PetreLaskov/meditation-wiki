@@ -90,12 +90,12 @@ The mistranslation would position Ri-med as a syncretic movement — which would
 
 ## Ri-med Today
 
-Though Ch.5 does not develop this, the Ri-med approach has been carried forward by several contemporary lineage holders and teachers — including notably the late Dilgo Khyentse Rinpoche and His Holiness the 14th Dalai Lama, both of whom have worked in multiple lineages while preserving each in its native style. The [[Aro Ter|Aro gTér]] lineage itself operates within the broader Ri-med ethos: while doctrinally a [[Nyingma|Nyingma]] transmission, the teaching style is compatible with sustained engagement across Tibetan Buddhist schools.
+Though Ch.5 does not develop this, the Ri-med approach has been carried forward by several contemporary lineage holders and teachers — including notably the late Dilgo Khyentse Rinpoche and His Holiness the 14th Dalai Lama, both of whom have worked in multiple lineages while preserving each in its native style. The [[Aro gTér|Aro gTér]] lineage itself operates within the broader Ri-med ethos: while doctrinally a [[Nyingma|Nyingma]] transmission, the teaching style is compatible with sustained engagement across Tibetan Buddhist schools.
 
 ## Related
 
 - [[Spectrum of Ecstasy - 10 Ch.5 Reading the Fields of our Energies]] — source: Ri-med introduction
 - [[Symbol]] — the Ch.5 no-synthesis rule applied to symbolic systems operates under the Ri-med principle
 - [[Nyingma]] — one of the schools participating in the Ri-med renaissance
-- [[Aro Ter]] — a Nyingma lineage operating in the broader Ri-med ethos
+- [[Aro gTér]] — a Nyingma lineage operating in the broader Ri-med ethos
 - [[Vajrayana]] — the vehicle within which multiple Tibetan lineages operate

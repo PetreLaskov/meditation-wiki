@@ -103,5 +103,5 @@ The Aro gTér tradition (Khyungchen Aro Lingma's gTerma cycle) contains specific
 - [[Dorje Trollo]] — wrathful crazy-wisdom manifestation of Padmasambhava
 - [[Tsogyel Trollo]] — vajra-whimsy wisdom-display of wrathfulness
 - [[Five Elements]] — the colour-blue (space-element) aligns with Seng-ge Dongma's ground-register
-- [[Aro Ter]] — lineage
+- [[Aro gTér]] — lineage
 - [[Nyingma]] — school

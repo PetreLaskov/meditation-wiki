@@ -101,5 +101,5 @@ Vajra posture is part of the **trül'khor naljor** system (Tib. *'khrul 'khor rN
 - [[Vajrayana]] — the tradition the dorje and vajra iconography belong to
 - [[Dzogchen]] — the specific view this Aro Sem-dé trül'khor is framed by
 - [[Transmission in Dzogchen]] — the relationship the internal visualization requires
-- [[Aro Ter]] — the lineage transmitting this version
+- [[Aro gTér]] — the lineage transmitting this version
 - [[Roaring Silence - 08 Beyond Emptiness]] — source

@@ -21,7 +21,7 @@ updated: 2026-04-22
 - **Founders**: Padmasambhava (Guru Rinpoche) and Yeshé Tsogyel are the first human teachers of the Tantric Buddhism that became Nyingma.
 - **Dzogchen** is the pinnacle of Nyingma's nine-yana doctrinal arrangement; for Dzogchen specifically, Garab Dorje is held as the first human teacher.
 - **Ngakpa lineage**: Nyingma carries both monastic and non-monastic tantric ordinations. The *ngakpa* (male) / *ngakma* (female) lineage — white-and-red-robed, long-haired, often householder — transmits Vajrayana and Dzogchen outside the gelong monastic form. [[Ngakpa Chögyam]] and [[Khandro Déchen]] teach from within this lineage.
-- **Aro gTér**: the specific lineage cycle of *Roaring Silence* is [[Aro Ter|Aro gTér]], a gTérma cycle within Nyingma.
+- **Aro gTér**: the specific lineage cycle of *Roaring Silence* is [[Aro gTér|Aro gTér]], a gTérma cycle within Nyingma.
 
 ## Relation to *Roaring Silence*
 
@@ -30,6 +30,6 @@ The authors state plainly: "We belong to the Nyingma tradition of Tibetan Buddhi
 ## Related
 
 - [[Dzogchen]] — the pinnacle teaching
-- [[Aro Ter]] — the specific lineage of *Roaring Silence*
+- [[Aro gTér]] — the specific lineage of *Roaring Silence*
 - [[Vajrayana]] — the vehicle Nyingma belongs to
 - [[Ngakpa Chögyam]], [[Khandro Déchen]] — authors teaching from within Nyingma

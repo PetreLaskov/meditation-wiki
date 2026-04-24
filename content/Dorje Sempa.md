@@ -124,6 +124,6 @@ Ch.13 closes the book-proper with the three-yidam trio (Yeshe Tsogyel / Seng-ge 
 - [[Compassion]] — the dorje-hand meaning
 - [[Tong-pa-nyid]] — the drilbu-hand meaning (emptiness as womb-of-potentiality)
 - [[Five Elements]] — framework within which Dorje Sempa operates at the ground-register
-- [[Aro Ter]] — lineage
+- [[Aro gTér]] — lineage
 - [[Nyingma]] — school
 - [[Vajrayana]] — vehicle

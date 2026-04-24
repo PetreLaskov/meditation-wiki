@@ -96,7 +96,7 @@ The glossary does not:
 ### Existing Pages Touched by Ch.13
 
 - [[Four Naljors]] — glossary adds the formal name *Aro Naljor-zhi* for the set; wiki confirms this.
-- [[Aro Ter]] — glossary cross-links to [[Aro Lingma]] as the lineage-specific revealer.
+- [[Aro gTér]] — glossary cross-links to [[Aro Lingma]] as the lineage-specific revealer.
 - [[Sem-dé]] — cross-linked to the new [[Me-ngag-dé]] page to complete the three-series triad.
 - [[Long-dé]] — cross-linked to the new [[Me-ngag-dé]] page.
 - [[Ngakma]], [[Ngakpa Chögyam]] — cross-linked to the new [[Ngak'phang]] page.

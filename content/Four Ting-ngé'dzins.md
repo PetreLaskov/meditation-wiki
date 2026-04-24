@@ -102,5 +102,5 @@ These are topics that might be developed in further Aro gTér material — eithe
 - [[Nongradual Approach]] — the framing under which ting-ngé'dzins emerge from naljors
 - [[Transmission in Dzogchen]] — what the ting-ngé'dzins require that the book cannot supply
 - [[Ngöndro]] — the category the Four Naljors exemplify
-- [[Aro Ter]] — the cycle within which both curricula are transmitted
+- [[Aro gTér]] — the cycle within which both curricula are transmitted
 - [[Roaring Silence - 10 The Dimension of Nongradual Approach]] — source (footnote 3)

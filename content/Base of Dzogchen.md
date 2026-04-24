@@ -34,7 +34,7 @@ The authors are emphatic: the base requirement is not a membership test and not 
 The chapter names two routes:
 
 1. **[[Tantric Ngöndro]]** — symbolic. The fourfold 100,000 practices. Characterized by the vehicle of Tantra.
-2. **[[Four Naljors]]** — nonsymbolic. The Sem-dé ngöndro of the [[Aro Ter|Aro gTér]] cycle. Characterized by the vehicle of Dzogchen.
+2. **[[Four Naljors]]** — nonsymbolic. The Sem-dé ngöndro of the [[Aro gTér|Aro gTér]] cycle. Characterized by the vehicle of Dzogchen.
 
 Both, practiced to fruition, deliver the practitioner to the nondual base. The Lama's instruction determines which route.
 

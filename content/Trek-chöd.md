@@ -111,5 +111,5 @@ Ch.12's method is the **promise-delivered** from the Opening's *"embracing emoti
 - [[Five Elements]] — the framework whose element-specific wisdoms trek-chöd discloses
 - [[Mirror-Wisdom]], [[Wisdom of Equanimity]], [[Discriminating Awareness]], [[All-Accomplishing Wisdom]], [[Dharmadhatu Wisdom]] — the five wisdoms trek-chöd reveals from the five element-neuroses
 - [[Thig-le]] — the inner-yogic register; rainbow-body as fruition
-- [[Aro Ter]] — the lineage with specific trek-chöd transmission
+- [[Aro gTér]] — the lineage with specific trek-chöd transmission
 - [[Nyingma]] — the school

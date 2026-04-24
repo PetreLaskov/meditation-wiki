@@ -13,7 +13,7 @@ updated: 2026-04-23
 
 # Khandro Déchen
 
-A [[Nyingma]] Lama and co-teacher of the [[Aro Ter|Aro gTér]] lineage with her husband [[Ngakpa Chögyam]]. Co-author of [[Roaring Silence]] and Q&A-commentary co-voice of *[[Spectrum of Ecstasy]]* (identified in Phuntsog Tulku's introduction as Ngak'chang Rinpoche's *sang-yum* — "secret consort," the Tantric spousal designation). *Khandro* (mKha' 'gro) is the Tibetan for *ḍākinī* — a female tantric adept / enlightened female principal.
+A [[Nyingma]] Lama and co-teacher of the [[Aro gTér|Aro gTér]] lineage with her husband [[Ngakpa Chögyam]]. Co-author of [[Roaring Silence]] and Q&A-commentary co-voice of *[[Spectrum of Ecstasy]]* (identified in Phuntsog Tulku's introduction as Ngak'chang Rinpoche's *sang-yum* — "secret consort," the Tantric spousal designation). *Khandro* (mKha' 'gro) is the Tibetan for *ḍākinī* — a female tantric adept / enlightened female principal.
 
 ## Key Points
 
@@ -33,5 +33,5 @@ A [[Nyingma]] Lama and co-teacher of the [[Aro Ter|Aro gTér]] lineage with her 
 - [[Ngakpa Chögyam]] — co-teacher and co-author
 - [[Roaring Silence]] — co-authored handbook (Sem-dé ngöndro / Four Naljors)
 - [[Spectrum of Ecstasy]] — co-voice of the Q&A commentaries that distinguish this revised edition from the 1997 original
-- [[Aro Ter]] — the lineage taught
+- [[Aro gTér]] — the lineage taught
 - [[Nyingma]] — the tradition

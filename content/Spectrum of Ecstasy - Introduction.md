@@ -29,11 +29,11 @@ A short (1-page) external introduction by **Phuntsog Tulku Rinpoche** (Rinchen P
 
 - The dual-level promise (relative: functional well-being; ultimate: rainbow-body) is the book's explicit *range* — readers choosing either pole are reading the same text.
 - "Primordial Mind" (capital) is affirmed in the external introduction as the object of the instructions — the *Mind* / *mind* distinction from *Roaring Silence* is already operative here.
-- The author is identified by Phuntsog Tulku specifically as **"lineage holder of the Aro gTér"** — positioning the book's authority explicitly within the [[Aro Ter]] gTérma cycle.
+- The author is identified by Phuntsog Tulku specifically as **"lineage holder of the Aro gTér"** — positioning the book's authority explicitly within the [[Aro gTér]] gTérma cycle.
 
 ## Related
 
 - [[Spectrum of Ecstasy]] — the book this introduction opens
-- [[Aro Ter]] — the gTérma cycle named as the author's lineage
+- [[Aro gTér]] — the gTérma cycle named as the author's lineage
 - [[Ngakpa Chögyam]], [[Khandro Déchen]] — authors
 - [[Roaring Silence]] — the other major handbook by these authors; the companion-volume to this book

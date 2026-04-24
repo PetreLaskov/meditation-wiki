@@ -112,7 +112,7 @@ The book does not train the practitioner in traditional complex khyil-khor visua
 - [[Khandro]], [[Pawo]] — the polar aspects arranged within each element's khyil-khor
 - [[Symbol]] — khyil-khor as a symbolic compositional form
 - [[Kindness]] — the ethical consequence of khyil-khor inescapability
-- [[Aro Ter]] — the lineage's khyil-khor materials
+- [[Aro gTér]] — the lineage's khyil-khor materials
 - [[Fluxing Web]] — RS Ch.7 parallel: *kun trol* as the non-monist interpenetrating structure
 - [[Spectrum of Ecstasy - 18 Ch.13 Dancing in the Space of the Earth and Sky]] — source: universe as "wisdom dance of the five pawos and khandros"
 - [[Dance]] — the structural-relation-name for the khyil-khor as wisdom-dance

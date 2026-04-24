@@ -77,6 +77,6 @@ The book's explicit-scope-limit (*"this book does not set out to explore this ve
 - [[Three Spheres of Being]] — the trikāya framework; thig-le operative at the long-ku register
 - [[Dzogchen]] — the vehicle within which rainbow-body as fruition of thig-le-practice is articulated
 - [[Nyingma]] — the school
-- [[Aro Ter]] — the lineage with inner-yogic teachings on pure-elements (sKu-mNye from Dzogchen Long-de)
+- [[Aro gTér]] — the lineage with inner-yogic teachings on pure-elements (sKu-mNye from Dzogchen Long-de)
 - [[Tantric Ngöndro]] — the practices that open access to the thig-le register
 - [[Embracing Emotions as the Path]] — outer-register methodology whose inner-register extension is thig-le work

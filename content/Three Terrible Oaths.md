@@ -117,5 +117,5 @@ Ch.11's compressed practice-note: the oaths require *chutzpah* (*"guts, uninhibi
 - [[Embracing Emotions as the Path]] — the Aro gTér methodology; each element-practice as element-specific form of the oaths
 - [[Self-Liberation]] — the RS-parallel mechanism; Oath 1 as *allow namthog to self-liberate*
 - [[Imitating Enlightenment]] — the failure-mode (stoic-resignation masquerading as acceptance)
-- [[Aro Ter]] — the lineage that carries the oaths-as-teaching
+- [[Aro gTér]] — the lineage that carries the oaths-as-teaching
 - [[Tsogyel Trollo]] — Yeshe Tsogyel's wrathful manifestation, whose vajra-whimsy is another register of the same crazy-wisdom the oaths express

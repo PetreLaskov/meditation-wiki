@@ -13,7 +13,7 @@ updated: 2026-04-23
 
 # Kuntuzangmo
 
-**Kuntuzangmo** (Tib. *kun tu bZang mo*; Skt. *Samantabhadrī* — "total goodness") is the female anthropomorphic representation of the **dharmakaya** — the nondual state — in the [[Aro Ter|Aro gTér]] lineage.
+**Kuntuzangmo** (Tib. *kun tu bZang mo*; Skt. *Samantabhadrī* — "total goodness") is the female anthropomorphic representation of the **dharmakaya** — the nondual state — in the [[Aro gTér|Aro gTér]] lineage.
 
 ## Key Points
 
@@ -80,7 +80,7 @@ The page is deliberately compact at this stage. It will grow if:
 ## Related
 
 - [[Nyingma]] — the school within which Kuntuzangmo / Kuntuzangpo is the primordial buddha figure
-- [[Aro Ter]] — the lineage in which Kuntuzangmo specifically is used
+- [[Aro gTér]] — the lineage in which Kuntuzangmo specifically is used
 - [[Dzogchen]] — the view for which Kuntuzangmo is the dharmakaya representation
 - [[Transmission in Dzogchen]] — the mind-transmission that begins at the dharmakaya level
 - [[Vajrayana]] — the tantric context for the iconographic system

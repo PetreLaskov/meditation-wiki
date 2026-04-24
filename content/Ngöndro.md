@@ -19,7 +19,7 @@ updated: 2026-04-22
 
 - **Functional, not fixed**: many different practices are called ngöndro. The word describes what the practice *does* (prepares the ground), not what it consists of.
 - Because the Dzogchen view is that nothing must be changed or added, ngöndro is not a "purification toward worthiness" but a **removal of occlusion** — making the practitioner receptive to what is already the case.
-- **Sem-dé-pa'i ngöndro zhi** — the four Sem-dé preliminaries — is what [[Roaring Silence]] presents: the [[Four Naljors]] of the [[Aro Ter]] cycle.
+- **Sem-dé-pa'i ngöndro zhi** — the four Sem-dé preliminaries — is what [[Roaring Silence]] presents: the [[Four Naljors]] of the [[Aro gTér]] cycle.
 - This must **not** be confused with **Gyüd-pa'i ngöndro zhi**, the four Tantric preparatory practices. They are different practices preparing for different teachings — see [[Tantric Ngöndro]].
 
 ## Symbolic vs. Nonsymbolic

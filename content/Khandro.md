@@ -31,7 +31,7 @@ A khandro is, structurally, a female tantric being who *moves freely in the sky-
 
 ### 1. As a Title
 
-**Khandro** is used as a Tibetan honorific title for a female Lama, parallel to Ngakpa / Ngakma for practitioners and Rinpoche for recognized teachers. **[[Khandro Déchen]]** — co-author of *Roaring Silence* and Q&A co-voice of *Spectrum of Ecstasy* — bears the title as a principal female Lama of the [[Aro Ter|Aro gTér]] lineage.
+**Khandro** is used as a Tibetan honorific title for a female Lama, parallel to Ngakpa / Ngakma for practitioners and Rinpoche for recognized teachers. **[[Khandro Déchen]]** — co-author of *Roaring Silence* and Q&A co-voice of *Spectrum of Ecstasy* — bears the title as a principal female Lama of the [[Aro gTér|Aro gTér]] lineage.
 
 ### 2. As the Inner Energy of Each Element
 
@@ -150,7 +150,7 @@ The three-roots-of-Tantra formula *"Lama, yidam and khandro"* is, per NR, *"not 
 
 At the [[Three Spheres of Being|long-ku]] level, the khandros appear as visionary wisdom-beings — female enlightened figures like Yeshé Tsogyel and Kuntuzangmo. In this mode they function as [[Yidam|yidams]] for sadhana practice.
 
-In the [[Aro Ter|Aro gTér]] specifically, [[Kuntuzangmo|Kuntuzangmo]] is the chö-ku (dharmakāya) khandro — *"the naked lady of nonduality."* Yeshé Tsogyel holds the lineage-origin position as *"the Dzogchen Buddha … being the origin of the gTérma cycles taught by Aro Lingma"* ([[Roaring Silence - Introduction]]).
+In the [[Aro gTér|Aro gTér]] specifically, [[Kuntuzangmo|Kuntuzangmo]] is the chö-ku (dharmakāya) khandro — *"the naked lady of nonduality."* Yeshé Tsogyel holds the lineage-origin position as *"the Dzogchen Buddha … being the origin of the gTérma cycles taught by Aro Lingma"* ([[Roaring Silence - Introduction]]).
 
 ## Khandro-Pawo as Five-fold Symmetry
 
@@ -185,7 +185,7 @@ This is the book's strongest statement of the khandros' status as *what we are* 
 - [[Spectrum of Ecstasy - 15 Ch.10 Blue Khandro-Pawo Display]] — source: space-khandro full development; the ground-khandro
 - [[Khandro Déchen]] — co-author; bearer of the title
 - [[Kuntuzangmo]] — chö-ku khandro in the Aro gTér
-- [[Aro Ter]] — the lineage developing this khandro-pawo taxonomy
+- [[Aro gTér]] — the lineage developing this khandro-pawo taxonomy
 - [[Yidam]] — the visionary wisdom-being for sadhana practice
 - [[Three Spheres of Being]] — the long-ku level at which the khandros appear visionarily
 - [[Wisdom of Equanimity]] — the wisdom-mode the earth-khandro expresses

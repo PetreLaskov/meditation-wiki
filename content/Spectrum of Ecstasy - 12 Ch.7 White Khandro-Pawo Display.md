@@ -362,7 +362,7 @@ Ch.7's **template-faithfulness**: Ch.7 instantiates the Ch.6 template faithfully
 - [[Embracing Emotions as the Path]] — water-column filled in with Ch.7 mirror-wisdom; the sole-ownership-of-emotions move given in its water-specific variant
 - [[Symbol]] — me-long and dorje added as the water-element symbols
 - [[Transmission in Dzogchen]] — the Ch.7 three-methods block reinstalled (oral / symbolic / direct) with me-long as canonical symbolic-transmission object
-- [[Aro Ter]] — the special Aro form of Ekajati as Yeshé Tsogyel-manifest / yidam (not Protector) detail
+- [[Aro gTér]] — the special Aro form of Ekajati as Yeshé Tsogyel-manifest / yidam (not Protector) detail
 - [[Mistrust of Existence]] — fear-of-vulnerability as the water-element face
 - [[Compassion]] — the strength-of-admission cross-reference; justification must be killed to discover intrinsic space which is the source of kindness for everyone everywhere
 - [[Spectrum of Ecstasy]] — Ch.7 entry
@@ -390,7 +390,7 @@ Ch.7's **template-faithfulness**: Ch.7 instantiates the Ch.6 template faithfully
 - [[Fear of Poverty]] — Ch.6's element-specific neurosis engine (parallel structure)
 - [[Compassion]] — justification's opposite; intrinsic-space source
 - [[Kindness]] — "the source of kindness for others — for everyone and everything everywhere"
-- [[Aro Ter]] — the lineage; Aro Lingma holding the me-long; Aro form of Ekajati as yidam
+- [[Aro gTér]] — the lineage; Aro Lingma holding the me-long; Aro form of Ekajati as yidam
 - [[Aro Lingma]] — Kyungchen Aro Lingma holds the me-long with the cho-phen (five-elemental-colours streamer)
 - [[Yeshé Tsogyel|Yeshé Tsogyel]] (not yet a page) — the Aro Ekajati as her manifestation
 - [[Shi-nè]] — the practice under which the me-long teaching deepens

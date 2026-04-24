@@ -100,7 +100,7 @@ Footnote 6 supplies the lineage-origin detail:
 
 ## The Me-long in the Aro gTér Lineage
 
-The me-long's prominence in Aro gTér iconography (Kyungchen Aro Lingma, Khandro A-rig She-zer) is not incidental. The lineage emphasizes the me-long as its characteristic symbolic-transmission object. See [[Aro Ter]].
+The me-long's prominence in Aro gTér iconography (Kyungchen Aro Lingma, Khandro A-rig She-zer) is not incidental. The lineage emphasizes the me-long as its characteristic symbolic-transmission object. See [[Aro gTér]].
 
 ## Cross-Reference to Earth's Rinchen
 
@@ -125,7 +125,7 @@ The me-long and [[Rinchen|rinchen]] (earth) have parallel structural roles in th
 - [[Shi-nè]] — the practice in which the me-long teaching's meaning grows
 - [[Transmission in Dzogchen]] — oral / symbolic / direct — me-long as canonical symbolic-transmission object
 - [[Aro Lingma]] — Kyungchen Aro Lingma depicted holding the me-long with cho-phen
-- [[Aro Ter]] — the lineage that carries the me-long as a characteristic transmission object
+- [[Aro gTér]] — the lineage that carries the me-long as a characteristic transmission object
 - [[Rinchen]] — parallel element-symbol (earth); shared impartiality-feature
 - [[Three Spheres of Being]] — me-long operates at the long-ku level as visible form of chö-ku
 - [[Khyil-khor]] — the me-long's circular form as centre-and-periphery structure

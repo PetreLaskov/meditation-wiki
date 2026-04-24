@@ -19,13 +19,13 @@ A handbook on the five wisdom emotions — the Vajrayana teaching that our neuro
 
 - **Authors**: [[Ngakpa Chögyam]] (Rinpoche) with [[Khandro Déchen]]
 - **Published**: First edition *Rainbow of Liberated Energy* (Aro Books, 1997); revised and expanded as *Spectrum of Ecstasy* (Shambhala, 2003); ISBN 1-59030-061-0
-- **Lineage frame**: [[Aro Ter|Aro gTér]] cycle, within [[Nyingma]] Vajrayana; dedicated to Kyungchen Aro Lingma and to the *gö-kar-chang-lo'i dé* (the [[Ngak'phang|ngak'phang]] non-celibate, non-monastic tradition)
+- **Lineage frame**: [[Aro gTér|Aro gTér]] cycle, within [[Nyingma]] Vajrayana; dedicated to Kyungchen Aro Lingma and to the *gö-kar-chang-lo'i dé* (the [[Ngak'phang|ngak'phang]] non-celibate, non-monastic tradition)
 - **Method**: combines technical Vajrayana-symbolic exposition, Tibetan-term precision, pragmatic Western-cultural analogy, and extensive edited Q&A from formal teaching events
 - **Register**: emphatically anti-romantic about spirituality-as-escape; insists tantric practice requires a baseline of emotional honesty and Western-cultural integration, not cultural masquerade as Tibetan
 
 ## Relation to *[[Roaring Silence]]*
 
-The two books are **complementary handbooks within the same [[Aro Ter|Aro gTér]] teaching architecture**:
+The two books are **complementary handbooks within the same [[Aro gTér|Aro gTér]] teaching architecture**:
 
 - **[[Roaring Silence]]** (2002) — the **non-symbolic** route. Develops the [[Four Naljors]] (shi-nè / lha-tong / nyi'mèd / lhun-drüp) as the [[Sem-dé]] ngöndro. Emphasis on *withdrawal of referential attachment to thought*.
 - ***Spectrum of Ecstasy*** (1997/2003) — the **symbolic** route. Develops the five elements / five wisdom emotions as the Tantric path of *transmuting* distracted emotional energies into the corresponding liberated wisdoms. Emphasis on *embracing emotions as the path*.
@@ -100,7 +100,7 @@ Ingested so far:
 ## Related
 
 - [[Nyingma]] — the school
-- [[Aro Ter]] — the lineage cycle
+- [[Aro gTér]] — the lineage cycle
 - [[Roaring Silence]] — companion handbook (non-symbolic Sem-dé ngöndro route)
 - [[Ngakpa Chögyam]], [[Khandro Déchen]] — authors
 - [[Spectrum of Ecstasy - Introduction]] — external introduction source page

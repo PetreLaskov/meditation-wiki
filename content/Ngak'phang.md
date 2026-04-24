@@ -50,7 +50,7 @@ Three structural reasons the book makes ngak'phang ordination load-bearing:
 
 1. **The authors are ngak'phang.** [[Ngakpa Chögyam]] is a ngakpa; [[Khandro Déchen]] is a ngakma. The book teaches from within the ordination, not from outside it.
 2. **The book's practitioner-model is householder-ngakpa.** The book repeatedly addresses practitioners who have jobs, homes, relationships, children. Ch.11's "driving your car *is* the practice" is the ngak'phang register of integration: retreat is not separated from ordinary life. The book's resistance to the East-as-better / dropout fantasy is structurally anchored in the ngak'phang tradition.
-3. **The [[Aro Ter|Aro gTér]] cycle is transmitted primarily through ngak'phang lineage.** The lineage's *tsawa'i Lama* — Aro Lingma — was a réma, a female ngak'phang yogini. The lineage's default practitioner is a ngakpa or ngakma, not a monk or nun.
+3. **The [[Aro gTér|Aro gTér]] cycle is transmitted primarily through ngak'phang lineage.** The lineage's *tsawa'i Lama* — Aro Lingma — was a réma, a female ngak'phang yogini. The lineage's default practitioner is a ngakpa or ngakma, not a monk or nun.
 
 ## Historical Presence in Tibet
 
@@ -87,7 +87,7 @@ Ch.11's "jé-thob" — the 15–30 minute post-meditation period engineered into
 - [[Ngakpa Chögyam]] — the male form; co-author as ngakpa
 - [[Khandro Déchen]] — co-author as ngakma
 - [[Togden]], [[gCod]], [[Gomchen]] — ngak'phang practitioner-types
-- [[Aro Ter]] — the lineage transmitted primarily through ngak'phang
+- [[Aro gTér]] — the lineage transmitted primarily through ngak'phang
 - [[Aro Lingma]] — Kyungchen Aro Lingma; a réma (ngak'phang yogini)
 - [[Nyingma]] — the school carrying ngak'phang ordination
 - [[Vajrayana]] — the vehicle

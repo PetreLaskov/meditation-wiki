@@ -60,7 +60,7 @@ Symbols arise **from** chö-ku, appear **at** long-ku, and are expressed **throu
 
 ## Why the Book's Iconography Works This Way
 
-The book's chapters Ch.6–10 are titled "[Color] Khandro-Pawo Display" precisely because they deliver symbols in this technical sense. Each Khandro-Pawo pair is a self-manifestation of its element's nature at the long-ku level, discovered by the [[Aro Ter|Aro gTér]] lineage's realised masters. The practitioner does not *interpret* these symbols; the practitioner *encounters* them, and the encounter is itself the transmission-event.
+The book's chapters Ch.6–10 are titled "[Color] Khandro-Pawo Display" precisely because they deliver symbols in this technical sense. Each Khandro-Pawo pair is a self-manifestation of its element's nature at the long-ku level, discovered by the [[Aro gTér|Aro gTér]] lineage's realised masters. The practitioner does not *interpret* these symbols; the practitioner *encounters* them, and the encounter is itself the transmission-event.
 
 ## The Five Element-Symbols
 
@@ -126,4 +126,4 @@ Therefore:
 - [[Khyil-khor]] — mandala / symbolic-compositional form
 - [[gTér]] — gTérma; the mode in which symbol-cycles are revealed
 - [[Transmission in Dzogchen]] — symbolic transmission as one of the three transmission modes
-- [[Aro Ter]] — the lineage whose symbols the book develops
+- [[Aro gTér]] — the lineage whose symbols the book develops

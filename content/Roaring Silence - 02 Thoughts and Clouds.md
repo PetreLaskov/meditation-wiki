@@ -70,7 +70,7 @@ A dense footnoted lexicon of the non-monastic tantric world:
 - **dratsang** — colleges.
 - **gar** — nomadic encampment.
 - **[[gCod|gCodpa / gCodma]]** — practitioners of **gCod** (pron. *chöd*), "the method of cutting attachment to the corporeal form as a reference point that validates existence as solid, permanent, separate, continuous, and defined." Directly names the [[Hidden Agenda Criteria|five hidden-agenda criteria]] of Ch.1 as what gCod works on, through the body.
-- **répa / réma** — cotton-clad yogic recluses; "*Réma* (ras ma) is the female form of *répa* (ras pa), as in Milarépa (mi la ras pa)." Kyungchen Aro Lingma was called **Jétsunma Khandro Yeshé Réma** prior to her discovery of the [[Aro Ter|Aro gTér]].
+- **répa / réma** — cotton-clad yogic recluses; "*Réma* (ras ma) is the female form of *répa* (ras pa), as in Milarépa (mi la ras pa)." Kyungchen Aro Lingma was called **Jétsunma Khandro Yeshé Réma** prior to her discovery of the [[Aro gTér|Aro gTér]].
 - **tu-mo** — "spatial heat yoga"; customary to wear only white cotton while practicing.
 - **[[Gomchen|gomchen / gomchenma]]** — "great master of meditation."
 - **tsi-pa** — astrologer.

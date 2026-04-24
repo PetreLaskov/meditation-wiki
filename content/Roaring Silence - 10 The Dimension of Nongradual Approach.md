@@ -211,7 +211,7 @@ This confirms the Ch.9 forward-reference on [[One Taste]] — nyi'mèd's *ro-chi
 
 > *"Kyungchen Aro Lingma ('khyung chen A ro gLing ma), 1886–1923, was a female Nyingma gTértön (discoverer of visionary revelation teachings)."*
 
-Supplies dates and gender — the gTértön is female, not the typical case for Western-accessible Tibetan Buddhist lineages. See [[Aro Ter]].
+Supplies dates and gender — the gTértön is female, not the typical case for Western-accessible Tibetan Buddhist lineages. See [[Aro gTér]].
 
 ## Structural Placement
 
@@ -241,7 +241,7 @@ So Ch.10 is the book's *last developmental chapter* — it delivers the fourth n
 - [[Shi-nè]], [[Lha-tong]], [[Nyi'med]] — the preceding three naljors, summarized in Ch.10
 - [[One Taste]] — *ro-chig* as the nyi'mèd = Mahamudra-3 mapping
 - [[Three Spheres of Being]] — patience/vitality/generosity ↔ chö-ku/long-ku/trül-ku
-- [[Aro Ter]] — gTérma context; Kyungchen Aro Lingma dates (1886–1923)
+- [[Aro gTér]] — gTérma context; Kyungchen Aro Lingma dates (1886–1923)
 - [[Sem-dé]] — the series the Four Naljors are ngöndro for
 - [[Rigpa]] — "find the presence of rigpa" in KD's honor/lha-tong discussion
 - [[Roaring Silence - 09 The Vivid Portal]] — immediately preceding chapter

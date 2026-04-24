@@ -170,6 +170,6 @@ See also [[Envisionment]] for the disciplined use of awareness-images as interna
 - [[Envisionment]] — the disciplined use of awareness-images as supports
 - [[Padmasambhava]] — awareness-image for retreat-room focus (not yet a page)
 - [[Yeshé Tsogyel]] — awareness-image for retreat-room focus (not yet a page)
-- [[Aro Ter]] — the lineage whose retreat style is in view
+- [[Aro gTér]] — the lineage whose retreat style is in view
 - [[Nyingma]] — the tradition within which tsam is practiced here
 - [[Vajrayana]] — the vehicle in which the tsam structure appears

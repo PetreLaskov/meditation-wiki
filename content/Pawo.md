@@ -164,7 +164,7 @@ Ch.5 footnote 2 provides detailed sources:
 
 > *"For detailed discussion of pawo and khandro, see articles: 'Cutting Through Spiritual Chauvinism' in The Middle Way, Journal of the Buddhist Society, Vol. 62, No. 1, May 1987; Tantra Magazine No. 6, 1993; and Der Biß des Murmeltiers, Junferman Verlag, Köln, Germany. See also Entering the Heart of the Sun and Moon by Khandro Dechen and Ngakpa Chogyam (in press from Aro Books)."*
 
-These are additional Aro Ter materials elaborating the Pawo-Khandro taxonomy beyond what *Spectrum of Ecstasy* can contain.
+These are additional Aro gTér materials elaborating the Pawo-Khandro taxonomy beyond what *Spectrum of Ecstasy* can contain.
 
 ## Pawo as Visionary Wisdom-Being
 
@@ -189,7 +189,7 @@ Though *Spectrum of Ecstasy* does not use the phrase, the parallel to Ch.5's kha
 - [[Spectrum of Ecstasy - 15 Ch.10 Blue Khandro-Pawo Display]] — source: space-pawo full development; space as dual-position (element + ground)
 - [[Yidam]] — the visionary wisdom-being mode of the pawos for sadhana practice
 - [[Three Spheres of Being]] — the long-ku level at which the pawos appear visionarily
-- [[Aro Ter]] — the lineage developing this pawo-khandro taxonomy
+- [[Aro gTér]] — the lineage developing this pawo-khandro taxonomy
 - [[Rinchen]] — earth-pawo's symbol (wish-fulfilling gem)
 - [[Dorje]] — water-pawo's formalised symbol (thunderbolt)
 - [[Me-long]] — water-element Dzogchen symbol (mirror of Mind)

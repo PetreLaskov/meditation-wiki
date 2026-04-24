@@ -13,7 +13,7 @@ updated: 2026-04-23
 
 # Aro Lingma
 
-**Kyungchen Aro Lingma** (*'khyung chen A ro gLing ma*), **1886–1923**, is the female Nyingma **gTértön** (revealer of visionary-treasure teachings) through whom the [[Aro Ter|Aro gTér]] cycle was revealed. She is the *tsawa'i Lama* (root Lama) of the lineage from which *Roaring Silence* teaches.
+**Kyungchen Aro Lingma** (*'khyung chen A ro gLing ma*), **1886–1923**, is the female Nyingma **gTértön** (revealer of visionary-treasure teachings) through whom the [[Aro gTér|Aro gTér]] cycle was revealed. She is the *tsawa'i Lama* (root Lama) of the lineage from which *Roaring Silence* teaches.
 
 ## Canonical Definition
 
@@ -88,7 +88,7 @@ The lineage is structurally featuring of female realized teachers to an extent l
 
 The Aro Lingma page consolidates a figure who appears in fragmentary form across many wiki pages:
 
-- [[Aro Ter]] names her as the revealer with dates and the Yeshé-Tsogyel-origin attribution.
+- [[Aro gTér]] names her as the revealer with dates and the Yeshé-Tsogyel-origin attribution.
 - [[Referentiality]] cites her gTérma for the formal definition.
 - [[Ngakma]] mentions her (as Jétsunma Khandro Yeshé Réma, a réma).
 - [[Roaring Silence - 05 Ocean and Waves]] cites her gTérma.
@@ -99,7 +99,7 @@ With a dedicated page, these fragments connect: Aro Lingma is a single figure wh
 
 ## Related
 
-- [[Aro Ter]] — the gTérma cycle revealed through her
+- [[Aro gTér]] — the gTérma cycle revealed through her
 - [[Four Naljors]] — her gTérma of the Sem-dé ngöndro
 - [[Referentiality]] — the formal definition is from her gTérma
 - [[Ngak'phang]] — the ordination-frame she practiced within (as a réma)

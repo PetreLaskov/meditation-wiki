@@ -108,7 +108,7 @@ The dorje connection: the thunderbolt (*rdo rje*) is the water-element's formali
 - [[Dorje]] — the thunderbolt; connected to Dorje Legpa (Ma-za-dor-sum)
 - [[Nyingma]] — the school of which Ekajati is principal Protector
 - [[Dzogchen]] — the innermost Tantra Ekajati specifically guards
-- [[Aro Ter]] — the lineage with the special Ekajati-as-Yeshé-Tsogyel yidam form
+- [[Aro gTér]] — the lineage with the special Ekajati-as-Yeshé-Tsogyel yidam form
 - [[Yidam]] — the register of sadhana practice Ekajati enters in the Aro gTér form
 - [[Vajra Pride]] — the identification-move operative in yidam practice
 - [[Kuntuzangmo]] — the chö-ku khandro in the Aro gTér; parallel female wisdom-being at a different trikāya register

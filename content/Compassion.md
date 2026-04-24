@@ -13,7 +13,7 @@ updated: 2026-04-23
 
 # Compassion
 
-**Compassion** (Tib. *thugs rje*; Skt. *karuṇā*) — in the [[Aro Ter|Aro gTér]] handbook pair, a technical term with the characteristic active-communicative sense of Tantric / Dzogchen usage. Not the English everyday sense of "sympathy" or "feeling-sorry-for"; the book's sense is structurally more specific.
+**Compassion** (Tib. *thugs rje*; Skt. *karuṇā*) — in the [[Aro gTér|Aro gTér]] handbook pair, a technical term with the characteristic active-communicative sense of Tantric / Dzogchen usage. Not the English everyday sense of "sympathy" or "feeling-sorry-for"; the book's sense is structurally more specific.
 
 ## The Ch.5 Definition
 

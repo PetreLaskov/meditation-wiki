@@ -171,4 +171,4 @@ One could say: the nongradual approach is how the reader is to read the whole bo
 - [[Roaring Silence - Introduction]] — initial listing of the Four Naljors
 - [[Spectrum of Ecstasy - 08 Ch.3 View Meditation and Action]] — SoE cross-book source: lhun-drüp = spontaneity = the action-aspect of the path
 - [[View Meditation Action]] — the triad within which SoE Ch.3 reads lhun-drüp as chodpa (action)
-- [[Aro Ter]] — the lineage whose Sem-dé ngöndro culminates in lhun-drüp
+- [[Aro gTér]] — the lineage whose Sem-dé ngöndro culminates in lhun-drüp

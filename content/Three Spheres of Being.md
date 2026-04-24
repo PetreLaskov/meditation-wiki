@@ -78,7 +78,7 @@ Ch.1 footnote 4 installs a technical restriction on "symbol":
 
 Chö-ku (*chos sku*, Skt. dharmakāya) is the **dimension of emptiness** — the unconditioned, unmanifest, potential aspect of being.
 
-- **Kuntuzangmo** is the **dharmakaya form** in the [[Aro Ter|Aro gTér]] lineage; [[Kuntuzangmo|Kuntuzangmo]] is Samantabhadrī — "total goodness" as absolute inclusiveness.
+- **Kuntuzangmo** is the **dharmakaya form** in the [[Aro gTér|Aro gTér]] lineage; [[Kuntuzangmo|Kuntuzangmo]] is Samantabhadrī — "total goodness" as absolute inclusiveness.
 - **Kuntuzangpo** (Samantabhadra) is the more generally used Nyingma dharmakaya.
 - The *phenomenological register* of chö-ku is [[Nonreferentiality|nonreferentiality]] — Mind as referenceless ocean; sheer brilliant emptiness.
 - The *experiential access* is through [[Shi-nè|shi-nè]] (which delivers emptiness) and its conclusion in [[Stabilized Shi-nè|stabilized shi-nè]].

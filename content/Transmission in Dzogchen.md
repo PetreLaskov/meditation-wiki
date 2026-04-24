@@ -98,7 +98,7 @@ In Vajrayana and Dzogchen, the Lama is not a role graftable from religious-teach
 - [[Dzogchen]] — what is transmitted
 - [[View Meditation Action]] — view includes what transmission points at
 - [[Nyingma]] — the lineage context in which these transmissions operate
-- [[Aro Ter]] — the specific gTérma cycle providing the transmission for *Roaring Silence*
+- [[Aro gTér]] — the specific gTérma cycle providing the transmission for *Roaring Silence*
 - [[Vajrayana]] — the vehicle within which wang/lung/tri operates
 - [[Symbol]] — the Ch.5 interface-sense of symbol — what Tantric transmission is the transmission *of*
 - [[Spectrum of Ecstasy - 10 Ch.5 Reading the Fields of our Energies]] — source for the Tantric wang/lung/tri structure

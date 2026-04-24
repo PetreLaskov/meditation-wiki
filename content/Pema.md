@@ -109,7 +109,7 @@ This is consistent with the fire-wisdom's *"intrinsically communicative"* nature
 - [[Yidam]] — all yidams sit on lotus-thrones; pema's universal seat-role
 - [[Nyingma]] — the tradition co-founded by Padmasambhava
 - [[Vajrayana]] — the vehicle Padmasambhava brought to Tibet
-- [[Aro Ter]] — the lineage carrying Padmasambhava's transmission through Kyungchen Aro Lingma's gTérma
+- [[Aro gTér]] — the lineage carrying Padmasambhava's transmission through Kyungchen Aro Lingma's gTérma
 - [[Rinchen]] — earth-element symbol (parallel: formalised element-symbol)
 - [[Dorje]] — water-element formalised symbol (parallel)
 - [[Me-long]] — water-element Dzogchen-specific symbol (parallel)

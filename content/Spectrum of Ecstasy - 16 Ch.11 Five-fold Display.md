@@ -271,6 +271,6 @@ Intellect as sense-field-among-six; the cross-sense-field perception as native t
 - [[Nongradual Approach]] — *"gradual doesn't really exist. Gradual is just a long run-up to non-gradual"*
 - [[Beginningless Enlightenment]] — *"we can all realise our beginningless enlightenment"*
 - [[Padmasambhava|Padmasambhava]] — deathlessness through lineage-continuity
-- [[Aro Ter]] — the Khandro-pawo-nyi-da-me-long-gyud source; sKu-mNye source
+- [[Aro gTér]] — the Khandro-pawo-nyi-da-me-long-gyud source; sKu-mNye source
 - [[Ngakpa Chögyam]], [[Khandro Déchen]] — Q&A voices
 - [[Distracted-Being and Liberated-Being]] — *"safety of the known"* as refusal of sparkling-through

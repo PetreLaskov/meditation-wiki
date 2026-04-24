@@ -25,7 +25,7 @@ Treasures *"found as actual texts or objects."* Physical artifacts — scrolls, 
 
 ### 2. Gong gTér (*dgongs gTer*) — Mind Treasures
 
-Treasures *"concealed within the Mind-continuum of the twenty-five disciples of Padmasambhava, and are discovered through revelation."* The teachings are not physical; they have been implanted in the subtle mindstream of specific disciples at the time of their original transmission, to be recalled-revealed in a future incarnation. The [[Aro Ter|Aro gTér]] is substantially of this mode — revealed in vision to [[Aro Lingma|Kyungchen Aro Lingma]].
+Treasures *"concealed within the Mind-continuum of the twenty-five disciples of Padmasambhava, and are discovered through revelation."* The teachings are not physical; they have been implanted in the subtle mindstream of specific disciples at the time of their original transmission, to be recalled-revealed in a future incarnation. The [[Aro gTér|Aro gTér]] is substantially of this mode — revealed in vision to [[Aro Lingma|Kyungchen Aro Lingma]].
 
 ### 3. dag-ngang gTér (*dag snang gTer*) — Treasures of Pure Vision
 
@@ -62,7 +62,7 @@ gTér is standardly distinguished from **kama** (*bka' ma*) — the continuous o
 
 ## The Aro gTér as an Example
 
-[[Aro Ter|The Aro gTér]] is a gong gTér cycle (mind-treasure): revealed to [[Aro Lingma|Kyungchen Aro Lingma]] (1886–1923) in vision directly from [[Kuntuzangmo|Yeshé Tsogyel]] as the Dzogchen Buddha for this cycle. The Aro gTér includes:
+[[Aro gTér|The Aro gTér]] is a gong gTér cycle (mind-treasure): revealed to [[Aro Lingma|Kyungchen Aro Lingma]] (1886–1923) in vision directly from [[Kuntuzangmo|Yeshé Tsogyel]] as the Dzogchen Buddha for this cycle. The Aro gTér includes:
 
 - The [[Four Naljors]] as Sem-dé ngöndro (elaborated in *[[Roaring Silence]]*)
 - The five-element / five-wisdom-emotion system (elaborated in *[[Spectrum of Ecstasy]]*)
@@ -72,7 +72,7 @@ The Ch.1 citation directs readers to further reading: *"See Tulku Thondup Rinpoc
 
 ## Related
 
-- [[Aro Ter]] — the Aro gTér cycle as an example
+- [[Aro gTér]] — the Aro gTér cycle as an example
 - [[Aro Lingma]] — the gTértön through whom the Aro gTér was revealed
 - [[Nyingma]] — the school in which gTér transmission is characteristic
 - [[Symbol]] — gTér discovery as a subspecies of Tantric symbol-revelation

@@ -64,7 +64,7 @@ Tsogyel Trollo complements the Ch.9 three crazy-wisdom vignettes (Drukpa Kunlegs
 - [[Three Terrible Oaths]] — the non-dual active-will register both Trollos embody
 - [[Khandro]] — the feminine-inner-spatial category Tsogyel Trollo occupies at the wrathful register
 - [[Aro Lingma]] — Yeshe Tsogyel as lineage-origin; source of the Aro gTér
-- [[Aro Ter]] — the lineage cycle within which Tsogyel Trollo is named
+- [[Aro gTér]] — the lineage cycle within which Tsogyel Trollo is named
 - [[Yidam]] — the visionary wisdom-being category
 - [[Ekajati]] — another wrathful-register feminine figure in the Aro gTér lineage
 - [[Ngakpa Chögyam]], [[Khandro Déchen]] — sources for the Ch.11 naming

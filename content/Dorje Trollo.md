@@ -134,7 +134,7 @@ Across the three Ch.9 vignettes, a consistent structure emerges:
 Dorje Trollo's lineage-position:
 
 - **Wrathful manifestation of Padmasambhava** — one of the eight classical Guru-Rinpoche manifestations (Guru Tsokyé Dorje, Guru Padmasambhava, Guru Loden Chokse, Guru Padma Gyalpo, Guru Nyima Özer, Guru Shakya Seng-ge, Guru Seng-ge Dradog, **Guru Dorje Drolö**). Each manifestation corresponds to a specific teaching-situation; Dorje Trollo's specific situation is the *subjugation of obstacles to the hidden treasures* (gTérma) in Tibet, at Tiger's Nest (Taktsang) in Bhutan and other locations.
-- **Connected to gTér-discovery**: Dorje Trollo is the specific Padmasambhava-form whose activity is associated with the establishment-and-protection of gTérma — the hidden-teachings-to-be-revealed in future times. This associates Dorje Trollo structurally with the [[Aro Ter|Aro gTér]] cycle that Khyungchen Aro Lingma revealed, since the gTérma-lineage is under his protective-activity.
+- **Connected to gTér-discovery**: Dorje Trollo is the specific Padmasambhava-form whose activity is associated with the establishment-and-protection of gTérma — the hidden-teachings-to-be-revealed in future times. This associates Dorje Trollo structurally with the [[Aro gTér|Aro gTér]] cycle that Khyungchen Aro Lingma revealed, since the gTérma-lineage is under his protective-activity.
 - **Tiger's Nest (Taktsang)**: the most famous iconographic-locus is Padmasambhava's subjugation of demons at Taktsang in Bhutan, arriving on the tigress-mount. The pregnant/new-mother-tigress of the Aro gTér reading is consistent with this broader Taktsang iconography.
 
 ## Dorje Trollo and the Thunderbolt Sword
@@ -180,7 +180,7 @@ A critical safety-note: the Three Terrible Oaths and the crazy-wisdom activity-p
 - [[Yidam]] — the visionary wisdom-being category Dorje Trollo exemplifies
 - [[Symbol]] — Tantric symbol theory in which the thunderbolt-wrath designation is non-arbitrary
 - [[gTér]] — gTérma; Dorje Trollo's lineage-protective activity over hidden-treasures
-- [[Aro Ter]] — the Aro gTér cycle with its specific Dorje Trollo reading (tiger = Yeshe Tsogyel)
+- [[Aro gTér]] — the Aro gTér cycle with its specific Dorje Trollo reading (tiger = Yeshe Tsogyel)
 - [[Ri-med]] — the principle preserving lineage-variance (Ch.9 footnote 5)
 - [[Transmission in Dzogchen]] — symbolic transmission as the pedagogical-register Dorje Trollo's crazy-wisdom activity operates in
 - [[Imitating Enlightenment]] — the failure-mode of attempting crazy-wisdom without realisation

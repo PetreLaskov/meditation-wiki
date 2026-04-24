@@ -118,5 +118,5 @@ Each of these resists-explanation; each either-lands-directly or doesn't. The pr
 - [[Non-Dual Multiplicity]] — a mere-indication at the metaphysical-register
 - [[Tantric Ngöndro]] — preparatory practices that develop readiness for the mere-indication register
 - [[Lha-tong]] — the naljor in which receptivity to mere-indication is cultivated
-- [[Aro Ter]] — the lineage from which these particular mere-indications issue
+- [[Aro gTér]] — the lineage from which these particular mere-indications issue
 - [[Ngakpa Chögyam]], [[Khandro Déchen]] — the sources of the mere-indications in the book

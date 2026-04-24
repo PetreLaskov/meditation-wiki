@@ -121,7 +121,7 @@ Reference for those seeking further material: the Khandro-pawo-nyi-da-me-long-gy
 - [[Tantric Ngöndro]] — the preparatory practices for inner-Tantra
 - [[Compassion]] — the ground on which zap-lam as co-emergence-of-emptiness-and-ecstasy rests
 - [[Five Elements]] — the element-framework applies equally to zap-lam's sensation-material
-- [[Aro Ter]] — lineage-context
+- [[Aro gTér]] — lineage-context
 - [[Nyingma]] — the school
 - [[Living the View]] — the pre-condition; without it, zap-lam is merely sensation-indulgence
 - [[Imitating Enlightenment]] — the failure-mode (approaching zap-lam as aerobics)
